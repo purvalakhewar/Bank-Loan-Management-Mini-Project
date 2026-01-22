@@ -3,7 +3,9 @@
 <img width="1278" height="419" alt="Screenshot 2026-01-22 202605" src="https://github.com/user-attachments/assets/5cb40e1f-1e70-4bd6-9d6f-34941837b0f6" />
 
 
-Customer & Branch Analysis Project
+Customer & Branch Analysis Project 
+
+
 📌 Project Overview
 
 This project focuses on analyzing customer demographic and financial information along with branch-level grouping details. The dataset helps understand customer distribution, income patterns, and branch performance segmentation. It is suitable for data analysis, visualization, and business intelligence projects.
